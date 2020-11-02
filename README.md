@@ -23,7 +23,7 @@
 ## Unsupervised Deep learning
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
-[]()
+[Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
 []()
 []()
 []()
