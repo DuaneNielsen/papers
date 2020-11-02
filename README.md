@@ -6,9 +6,23 @@
 
 [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 
+[]()
+
+[]()
+
+[]()
+
+
 ## Reinforcement Learning
 
 [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
+
+[]()
+
+[]()
+
+[]()
+
 
 ## Differential physics
 
@@ -16,14 +30,33 @@
 
 [DiffTaichi: Differentiable Programming for Physical Simulation](https://arxiv.org/abs/1910.00935)
 
+[]()
+
+[]()
+
+
+[]()
+
+
 ## Deep learning
 
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
+[]()
+
+[]()
+
+[]()
+
+
 ## Unsupervised Deep learning
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
+
 [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
+
 []()
+
 []()
+
 []()
