@@ -18,6 +18,8 @@
 
 ## Deep learning
 
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 ## Unsupervised Deep learning
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
