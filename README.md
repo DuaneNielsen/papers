@@ -17,7 +17,7 @@
 
 [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
 
-[]()
+[Discrete Latent Space World Models for Reinforcement Learning](https://arxiv.org/abs/2010.05767)  World model based on vector quantized variational autoencoder (VQ-VAE)
 
 []()
 
