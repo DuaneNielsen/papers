@@ -40,8 +40,6 @@
 
 ## Deep learning
 
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-
 []()
 
 []()
@@ -60,3 +58,9 @@
 []()
 
 []()
+
+## Classics
+
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+
