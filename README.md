@@ -25,6 +25,18 @@
 
 [World Models](https://arxiv.org/abs/1803.10122)
 
+[High-Dimensional Continuous Control Using Generalized Advantage Estimation (Advantage) ](https://arxiv.org/abs/1506.02438)
+
+[Asynchronous Methods for Deep Reinforcement Learning ](https://arxiv.org/abs/1602.01783)
+
+[Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)
+
+[Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (Alpha Go/Zero) ](https://arxiv.org/abs/1712.01815)
+
+[]()
+
+[Playing Atari with Deep Reinforcement Learning (Replay buffer) ](https://arxiv.org/abs/1312.5602)
+
 ## Differential physics
 
 [Learning to Control PDEs with Differentiable Physics](https://arxiv.org/abs/2001.07457)
