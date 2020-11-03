@@ -31,7 +31,7 @@
 
 [DiffTaichi: Differentiable Programming for Physical Simulation](https://arxiv.org/abs/1910.00935)
 
-[]()
+[End-to-End Differentiable Physics for Learning and Control](http://papers.nips.cc/paper/7948-end-to-end-differentiable-physics-for-learning-and-control)
 
 []()
 
