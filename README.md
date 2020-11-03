@@ -44,7 +44,7 @@
 
 [Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
 
-[]()
+[Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2010.14406)
 
 ## Deep learning
 
