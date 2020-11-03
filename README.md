@@ -19,10 +19,11 @@
 
 [Discrete Latent Space World Models for Reinforcement Learning](https://arxiv.org/abs/2010.05767)  World model based on vector quantized variational autoencoder (VQ-VAE)
 
-[]()
+[Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
 
-[]()
+[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 
+[World Models](https://arxiv.org/abs/1803.10122)
 
 ## Differential physics
 
