@@ -46,6 +46,12 @@
 
 [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2010.14406)
 
+[Form2Fit: Learning Shape Priors for Generalizable Assembly](https://form2fit.github.io/)
+
+[TossingBot: Learning to Throw Arbitrary Objects with Residual Physics](https://arxiv.org/abs/1903.11239)
+
+[]()
+
 ## Deep learning
 
 []()
@@ -64,8 +70,6 @@
 [Unsupervised Learning of Object Keypoints for Perception and Control](https://arxiv.org/abs/1906.11883)
 
 [Unsupervised Learning of Object Landmarks through Conditional Image Generation](http://www.robots.ox.ac.uk/~vgg/research/unsupervised_landmarks/)
-
-[]()
 
 []()
 
