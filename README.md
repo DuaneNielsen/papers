@@ -37,6 +37,13 @@
 
 []()
 
+## Robotics
+
+[Solving Rubik's Cube with a Robot Hand](https://arxiv.org/abs/1910.07113)
+
+[Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
+
+[]()
 
 ## Deep learning
 
