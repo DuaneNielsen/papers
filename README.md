@@ -61,6 +61,10 @@
 
 [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
 
+[Unsupervised Learning of Object Keypoints for Perception and Control](https://arxiv.org/abs/1906.11883)
+
+[Unsupervised Learning of Object Landmarks through Conditional Image Generation](http://www.robots.ox.ac.uk/~vgg/research/unsupervised_landmarks/)
+
 []()
 
 []()
