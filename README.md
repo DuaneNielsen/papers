@@ -33,7 +33,7 @@
 
 [End-to-End Differentiable Physics for Learning and Control](http://papers.nips.cc/paper/7948-end-to-end-differentiable-physics-for-learning-and-control)
 
-[]()
+[ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](https://arxiv.org/abs/2007.00987)
 
 
 []()
