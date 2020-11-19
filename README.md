@@ -10,10 +10,10 @@
 
 []()
 
-[]()
-
 
 ## Reinforcement Learning
+
+[Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning](https://arxiv.org/abs/2010.14498)
 
 [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
 
