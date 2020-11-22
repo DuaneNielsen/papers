@@ -62,6 +62,8 @@
 
 [TossingBot: Learning to Throw Arbitrary Objects with Residual Physics](https://arxiv.org/abs/1903.11239)
 
+[A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537.pdf)
+
 []()
 
 ## Deep learning
