@@ -37,7 +37,7 @@
 
 [Playing Atari with Deep Reinforcement Learning (Replay buffer) ](https://arxiv.org/abs/1312.5602)
 
-## Differential physics
+## Differentiable physics
 
 [Learning to Control PDEs with Differentiable Physics](https://arxiv.org/abs/2001.07457)
 
