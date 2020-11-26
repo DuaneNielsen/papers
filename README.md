@@ -74,8 +74,7 @@
 
 [Mesh R-CNN](https://arxiv.org/abs/1906.02739)
 
-[]()
-
+[Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning](https://arxiv.org/abs/1904.01786.pdf)
 
 ## Unsupervised Deep learning
 
