@@ -80,6 +80,8 @@
 
 [Mask R-CNN](https://arxiv.org/abs/1703.06870.pdf)
 
+[Faster R-CNN](https://arxiv.org/abs/1611.07709.pdf)
+
 ## Unsupervised Deep learning
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
