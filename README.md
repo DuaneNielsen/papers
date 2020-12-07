@@ -76,6 +76,10 @@
 
 [Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning](https://arxiv.org/abs/1904.01786.pdf)
 
+[Fully Convolutional Instance-aware Semantic Segmentation](https://arxiv.org/abs/1611.07709.pdf)
+
+[Mask R-CNN](https://arxiv.org/abs/1703.06870.pdf)
+
 ## Unsupervised Deep learning
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
