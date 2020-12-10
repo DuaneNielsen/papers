@@ -97,5 +97,7 @@
 []()
 
 
+## Meta Learning
 
+[OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf)
 
