@@ -92,7 +92,7 @@
 
 [Unsupervised Learning of Object Landmarks through Conditional Image Generation](http://www.robots.ox.ac.uk/~vgg/research/unsupervised_landmarks/)
 
-[]()
+[Implicit 3D Orientation Learning for 6D Object Detection from RGB Images](https://arxiv.org/abs/1902.01275)
 
 []()
 
