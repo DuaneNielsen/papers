@@ -47,7 +47,6 @@
 
 [ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](https://arxiv.org/abs/2007.00987)
 
-
 []()
 
 ## Robotics
@@ -64,7 +63,7 @@
 
 [A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537.pdf)
 
-[]()
+[](https://arxiv.org/pdf/2011.06507.pdf)
 
 ## Deep learning
 
