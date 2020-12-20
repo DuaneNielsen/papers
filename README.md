@@ -81,6 +81,8 @@
 
 [Faster R-CNN](https://arxiv.org/abs/1611.07709.pdf)
 
+[Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)
+
 ## Unsupervised Deep learning
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
