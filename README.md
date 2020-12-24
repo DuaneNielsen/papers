@@ -6,6 +6,8 @@
 
 [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 
+[Latent ODEs for Irregularly-Sampled Time Series](https://arxiv.org/abs/1907.03907.pdf)
+
 []()
 
 []()
@@ -82,6 +84,7 @@
 [Faster R-CNN](https://arxiv.org/abs/1611.07709.pdf)
 
 [Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)
+
 
 ## Unsupervised Deep learning
 
