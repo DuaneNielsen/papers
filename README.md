@@ -81,7 +81,7 @@
 
 [Mask R-CNN](https://arxiv.org/abs/1703.06870.pdf)
 
-[Faster R-CNN](https://arxiv.org/abs/1611.07709.pdf)
+[Faster R-CNN](https://arxiv.org/abs/1506.01497.pdf)
 
 [Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)
 
