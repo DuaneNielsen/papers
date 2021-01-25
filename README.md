@@ -35,6 +35,8 @@
 
 [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (Alpha Go/Zero) ](https://arxiv.org/abs/1712.01815)
 
+[Deep Reinforcement Learning for Imperfect-Information Games](https://arxiv.org/abs/2007.13544)
+
 []()
 
 [Playing Atari with Deep Reinforcement Learning (Replay buffer) ](https://arxiv.org/abs/1312.5602)
