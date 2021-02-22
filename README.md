@@ -19,6 +19,10 @@
 
 [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
 
+[Mastering Atari with Discrete World Models](https://danijar.com/project/dreamerv2/)
+
+[Learning Invariant Representations for Reinforcement Learning without Reconstruction](https://arxiv.org/abs/2010.02193.pdf)
+
 [Discrete Latent Space World Models for Reinforcement Learning](https://arxiv.org/abs/2010.05767)  World model based on vector quantized variational autoencoder (VQ-VAE)
 
 [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
