@@ -91,6 +91,8 @@
 
 [Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)
 
+[LAMBDANETWORKS: MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION](https://arxiv.org/abs/2102.08602.pdf) [code](https://github.com/d-li14/lambda.pytorch)
+
 
 ## Unsupervised Deep learning
 
