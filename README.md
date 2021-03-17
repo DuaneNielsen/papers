@@ -23,7 +23,7 @@
 
 [Mastering Atari with Discrete World Models](https://danijar.com/project/dreamerv2/)
 
-[Learning Invariant Representations for Reinforcement Learning without Reconstruction](https://arxiv.org/abs/2010.02193.pdf)
+[Learning Invariant Representations for Reinforcement Learning without Reconstruction](https://arxiv.org/abs/2006.10742)
 
 [Discrete Latent Space World Models for Reinforcement Learning](https://arxiv.org/abs/2010.05767)  World model based on vector quantized variational autoencoder (VQ-VAE)
 
