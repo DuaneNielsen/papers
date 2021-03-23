@@ -47,7 +47,7 @@
 
 [Deep Reinforcement Learning for Imperfect-Information Games](https://arxiv.org/abs/2007.13544)
 
-[]()
+[Baby A3C](https://github.com/greydanus/baby-a3c)
 
 [Playing Atari with Deep Reinforcement Learning (Replay buffer) ](https://arxiv.org/abs/1312.5602)
 
