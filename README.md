@@ -122,3 +122,7 @@
 ## Implicit Layers
 
 [Deep Implicit Layers](http://implicit-layers-tutorial.org/introduction/)
+
+## Articles/Blogs
+
+[Learning to drive smoothly using RL](https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4)
