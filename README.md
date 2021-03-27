@@ -79,6 +79,8 @@
 
 [](https://arxiv.org/pdf/2011.06507.pdf)
 
+[DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning](https://arxiv.org/abs/1909.08399)
+
 ## Deep learning
 
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
