@@ -101,6 +101,7 @@
 
 [LAMBDANETWORKS: MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION](https://arxiv.org/abs/2102.08602.pdf) [code](https://github.com/d-li14/lambda.pytorch)
 
+[In Defense of Grid Features for Visual Question Answering](https://arxiv.org/abs/2001.03615)
 
 ## Unsupervised Deep learning
 
