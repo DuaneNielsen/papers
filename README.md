@@ -103,6 +103,8 @@
 
 [In Defense of Grid Features for Visual Question Answering](https://arxiv.org/abs/2001.03615)
 
+[Adversarially Robust Generalization Requires More Data](https://arxiv.org/abs/1804.11285.pdf)
+
 ## Unsupervised Deep learning
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
