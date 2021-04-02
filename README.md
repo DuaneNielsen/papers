@@ -15,7 +15,7 @@
 
 ## Reinforcement Learning
 
-
+[Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779.pdf)
 
 [Accelerating Online Reinforcement Learning with Offline Datasets](https://awacrl.github.io/)
 
