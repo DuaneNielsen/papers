@@ -15,12 +15,6 @@
 
 ## Reinforcement Learning
 
-[Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779.pdf)
-
-[Accelerating Online Reinforcement Learning with Offline Datasets](https://awacrl.github.io/)
-
-[Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/pdf/1906.01624.pdf)
-
 [Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning](https://arxiv.org/abs/2010.14498)
 
 [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
@@ -50,6 +44,18 @@
 [Baby A3C](https://github.com/greydanus/baby-a3c)
 
 [Playing Atari with Deep Reinforcement Learning (Replay buffer) ](https://arxiv.org/abs/1312.5602)
+
+### Offline RL
+
+[Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
+
+[Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
+
+[Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779.pdf)
+
+[Accelerating Online Reinforcement Learning with Offline Datasets](https://awacrl.github.io/)
+
+[Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/pdf/1906.01624.pdf)
 
 ## Differentiable physics
 
