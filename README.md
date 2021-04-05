@@ -49,6 +49,8 @@
 
 [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
 
+[Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
+
 [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
 
 [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779.pdf)
