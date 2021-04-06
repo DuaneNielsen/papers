@@ -55,6 +55,8 @@
 
 [Asymptotically Efficient Off-Policy Evaluation for Tabular Reinforcement Learning](https://arxiv.org/pdf/2001.10742.pdf)
 
+[Near-Optimal Provable Uniform Convergence in Offline Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2007.03760)
+
 [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
 
 [Accelerating Online Reinforcement Learning with Offline Datasets](https://awacrl.github.io/)
