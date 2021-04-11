@@ -119,6 +119,8 @@
 
 [Improving Adversarial Robustness via Unlabeled Out-of-Domain Data](https://arxiv.org/abs/2006.08476.pdf)
 
+[Large-Batch Training for LSTM and Beyond](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-138.pdf)
+
 ## Unsupervised Deep learning
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
