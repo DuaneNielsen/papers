@@ -27,6 +27,8 @@
 
 [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
 
+[SOFT ACTOR-CRITIC FOR DISCRETE ACTION SETTINGS](https://arxiv.org/pdf/1910.07207.pdf)
+
 [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 
 [World Models](https://arxiv.org/abs/1803.10122)
