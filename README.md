@@ -63,6 +63,10 @@
 
 [Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/pdf/1906.01624.pdf)
 
+### Exploration
+
+[Generalized State-Dependent Exploration for Deep Reinforcement Learning in Robotics](https://arxiv.org/pdf/2005.05719.pdf)
+
 ## Differentiable physics
 
 [Learning to Control PDEs with Differentiable Physics](https://arxiv.org/abs/2001.07457)
