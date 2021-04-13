@@ -47,6 +47,8 @@
 
 [Playing Atari with Deep Reinforcement Learning (Replay buffer) ](https://arxiv.org/abs/1312.5602)
 
+[Meta-SAC: Auto-tune the Entropy Temperature of Soft Actor-Critic via Metagradient](https://arxiv.org/abs/2007.01932)
+
 ### Offline RL
 
 [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
