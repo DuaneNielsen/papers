@@ -49,6 +49,8 @@
 
 [Meta-SAC: Auto-tune the Entropy Temperature of Soft Actor-Critic via Metagradient](https://arxiv.org/abs/2007.01932)
 
+[Meta-Gradient Reinforcement Learning](https://arxiv.org/abs/1805.09801)
+
 ### Offline RL
 
 [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
