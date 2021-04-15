@@ -145,6 +145,9 @@
 
 [Efficient Training for Positive Unlabeled Learning](https://arxiv.org/abs/1608.06807)
 
+[Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230v1.pdf)
+
+[Scaling and Benchmarking Self-Supervised Visual Representation Learning](https://arxiv.org/abs/2103.03230v1.pdf)
 
 ## Meta Learning
 
