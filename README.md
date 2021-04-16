@@ -63,6 +63,8 @@
 
 [Near-Optimal Provable Uniform Convergence in Offline Policy Evaluation for Reinforcement Learning](https://arxiv.org/abs/2007.03760)
 
+[Online and Offline Reinforcement Learning by Planning with a Learned Model](https://arxiv.org/abs/2104.06294.pdf)
+
 [Regularized Behavior Value Estimation](https://arxiv.org/abs/2103.09575)
 
 [Accelerating Online Reinforcement Learning with Offline Datasets](https://awacrl.github.io/)
