@@ -133,6 +133,8 @@
 
 [Large-Batch Training for LSTM and Beyond](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-138.pdf)
 
+[RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719)
+
 ## Unsupervised Deep learning
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
