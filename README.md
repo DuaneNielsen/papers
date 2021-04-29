@@ -85,7 +85,7 @@
 
 [ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](https://arxiv.org/abs/2007.00987)
 
-[]()
+[LEARNING MESH-BASED SIMULATION WITH GRAPH NETWORKS](https://openreview.net/pdf?id=roNqYL0_XP)
 
 ## Robotics
 
