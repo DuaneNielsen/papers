@@ -139,6 +139,8 @@
 
 ## Unsupervised Deep learning
 
+[DINO: Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294.pdf)
+
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
 
 [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
