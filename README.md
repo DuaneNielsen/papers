@@ -139,6 +139,8 @@
 
 ## Unsupervised Deep learning
 
+[Motion Representations for Articulated Animation](https://arxiv.org/pdf/2104.11280v1.pdf)
+
 [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294.pdf)
 
 [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
