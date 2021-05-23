@@ -101,7 +101,9 @@
 
 [A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537.pdf)
 
-[](https://arxiv.org/pdf/2011.06507.pdf)
+[Reinforcement Learning with Videos: Combining Offline Observations with Interaction](https://arxiv.org/abs/2011.06507.pdf)
+
+[Contingencies from Observations: Tractable ContingencyPlanning with Learned Behavior Models](https://arxiv.org/abs/2104.10558.pdf)
 
 [DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning](https://arxiv.org/abs/1909.08399)
 
