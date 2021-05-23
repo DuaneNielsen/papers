@@ -111,6 +111,8 @@
 
 [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/abs/2009.14794.pdf)
 
+[NEURAL OBLIVIOUS DECISION ENSEMBLES FOR DEEP LEARNING ON TABULAR DATA](https://arxiv.org/abs/1909.06312.pdf)
+
 [One-shot conditional audio filtering of arbitrary sounds](https://arxiv.org/abs/2011.02421)
 
 [Mesh R-CNN](https://arxiv.org/abs/1906.02739)
