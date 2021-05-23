@@ -143,6 +143,8 @@
 
 [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719)
 
+[Transfuser](https://ap229997.github.io/projects/transfuser/)
+
 ## Unsupervised Deep learning
 
 [Motion Representations for Articulated Animation](https://arxiv.org/pdf/2104.11280v1.pdf)
