@@ -107,6 +107,8 @@
 
 [DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning](https://arxiv.org/abs/1909.08399)
 
+[Closing the Sim-To-Real Gap with Evolutionary Meta-Learning](https://arxiv.org/abs/2003.01239)
+
 ## Deep learning
 
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
