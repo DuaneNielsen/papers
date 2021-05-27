@@ -147,6 +147,8 @@
 
 [Transfuser](https://ap229997.github.io/projects/transfuser/)
 
+[https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
+
 ## Unsupervised Deep learning
 
 [Motion Representations for Articulated Animation](https://arxiv.org/pdf/2104.11280v1.pdf)
