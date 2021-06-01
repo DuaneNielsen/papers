@@ -109,6 +109,10 @@
 
 [Closing the Sim-To-Real Gap with Evolutionary Meta-Learning](https://arxiv.org/abs/2003.01239)
 
+[Multi-Object Search using Object-Oriented POMDPs](https://www.ccs.neu.edu/home/lsw/papers/icra2019-mop.pdf)
+
+[Multi-Resolution POMDP Planning for Multi-Object Search in 3D](https://arxiv.org/abs/2005.02878.pdf)
+
 ## Deep learning
 
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
