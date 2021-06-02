@@ -71,6 +71,8 @@
 
 [Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/pdf/1906.01624.pdf)
 
+[Learning One Representation to Optimize All Rewards](https://arxiv.org/pdf/2103.07945.pdf)
+
 ### Exploration
 
 [Generalized State-Dependent Exploration for Deep Reinforcement Learning in Robotics](https://arxiv.org/pdf/2005.05719.pdf)
