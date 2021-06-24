@@ -57,6 +57,8 @@
 
 [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
 
+[A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
+
 [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779.pdf)
 
 [Asymptotically Efficient Off-Policy Evaluation for Tabular Reinforcement Learning](https://arxiv.org/pdf/2001.10742.pdf)
