@@ -91,6 +91,8 @@
 
 [LEARNING MESH-BASED SIMULATION WITH GRAPH NETWORKS](https://openreview.net/pdf?id=roNqYL0_XP)
 
+[Learning mesh-based simulation with graph networks](https://arxiv.org/abs/2010.03409)
+
 ## Robotics
 
 [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/abs/1910.07113)
