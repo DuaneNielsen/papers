@@ -165,6 +165,8 @@
 
 ## Unsupervised Deep learning
 
+[MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tewari_MoFA_Model-Based_Deep_ICCV_2017_paper.pdf)
+
 [Motion Representations for Articulated Animation](https://arxiv.org/pdf/2104.11280v1.pdf)
 
 [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294.pdf)
