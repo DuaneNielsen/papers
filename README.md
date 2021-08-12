@@ -125,6 +125,8 @@
 
 ## Deep learning
 
+[High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941.pdf)
+
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/abs/2009.14794.pdf)
