@@ -125,6 +125,8 @@
 
 ## Deep learning
 
+[Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349.pdf)
+
 [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941.pdf)
 
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
