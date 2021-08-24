@@ -1,5 +1,9 @@
 # papers
 
+## Benchmarks
+
+[Monocular Depth Estimation - Unsupervised](https://paperswithcode.com/sota/monocular-depth-estimation-on-kitti-eigen-1?tag_filter=0)
+
 ## Differential equations
 
 [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895)
