@@ -17,6 +17,10 @@
 []()
 
 
+## Robot localization
+
+[DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/pdf/2108.10869v1.pdf)
+
 ## Reinforcement Learning
 
 [Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning](https://arxiv.org/abs/2010.14498)
