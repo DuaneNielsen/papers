@@ -28,6 +28,8 @@
 
 [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)
 
+[CeMNet: Self-supervised learning for accurate continuous ego-motion estimation](https://arxiv.org/abs/1806.10309.pdf)
+
 ## Multi-Object Tracking
 
 [Multi-Object Tracking with Hallucinated and Unlabeled Videos](https://arxiv.org/abs/2108.08836.pdf)
