@@ -23,6 +23,10 @@
 
 [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)
 
+## Multi-Object Tracking
+
+[Multi-Object Tracking with Hallucinated and Unlabeled Videos](https://arxiv.org/abs/2108.08836.pdf)
+
 ## Reinforcement Learning
 
 [QUANTIFYING DIFFERENCES IN REWARD FUNCTIONS](https://arxiv.org/abs/2006.13900.pdf)
