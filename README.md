@@ -30,6 +30,8 @@
 
 [CeMNet: Self-supervised learning for accurate continuous ego-motion estimation](https://arxiv.org/abs/1806.10309.pdf)
 
+[HIGH SPEED NONHOLONOMIC MOBILE ROBOT ONLINE TRAJECTORY OPTIMATIZATION](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/37301/XU-THESIS-2014.pdf)
+
 ## Multi-Object Tracking
 
 [Multi-Object Tracking with Hallucinated and Unlabeled Videos](https://arxiv.org/abs/2108.08836.pdf)
