@@ -18,6 +18,8 @@
 
 ## Stereo Matching
 
+[RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching](https://arxiv.org/abs/2109.07547v1.pdf)
+
 [Attention-Aware Feature Aggregation for Real-time Stereo Matching on Edge Devices](https://openaccess.thecvf.com/content/ACCV2020/papers/Chang_Attention-Aware_Feature_Aggregation_for_Real-time_Stereo_Matching_on_Edge_Devices_ACCV_2020_paper.pdf)
 
 [HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching](https://arxiv.org/abs/2007.12140)
