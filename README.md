@@ -106,6 +106,8 @@
 
 ## Differentiable physics
 
+[Physics Based Deep Learning](https://arxiv.org/abs/2109.05237v1.pdf)
+
 [Learning to Control PDEs with Differentiable Physics](https://arxiv.org/abs/2001.07457)
 
 [DiffTaichi: Differentiable Programming for Physical Simulation](https://arxiv.org/abs/1910.00935)
