@@ -106,6 +106,8 @@
 
 ## Differentiable physics
 
+[BRAX](https://github.com/google/brax)
+
 [Physics Based Deep Learning](https://arxiv.org/abs/2109.05237v1.pdf)
 
 [Learning to Control PDEs with Differentiable Physics](https://arxiv.org/abs/2001.07457)
