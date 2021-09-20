@@ -126,6 +126,8 @@
 
 ## Robotics
 
+[Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion](https://paperswithcode.com/paper/reinforcement-learning-with-evolutionary)
+
 [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/rma-locomotion-final.pdf)
 
 [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/abs/1910.07113)
