@@ -28,6 +28,8 @@
 
 [HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching](https://arxiv.org/abs/2007.12140)
 
+[Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/abs/2003.10432v3.pdf)
+
 ## Robot localization
 
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
