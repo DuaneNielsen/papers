@@ -30,6 +30,10 @@
 
 [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/abs/2003.10432v3.pdf)
 
+## 3D semantic scene completion
+
+[3D Semantic Scene Completion: a Survey](https://arxiv.org/abs/2103.07466.pdf)
+
 ## Robot localization
 
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
