@@ -168,6 +168,8 @@
 
 ## Deep learning
 
+[DATASET CONDENSATION WITH GRADIENT MATCHING](https://arxiv.org/abs/2006.05929.pdf)
+
 [Learning to Learn Single Domain Generalization](https://arxiv.org/abs/2003.13216.pdf)
 
 [DEUP: Direct Epistemic Uncertainty Prediction](https://arxiv.org/abs/2102.08501.pdf)
