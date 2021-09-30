@@ -168,6 +168,8 @@
 
 ## Deep learning
 
+[DEUP: Direct Epistemic Uncertainty Prediction](https://arxiv.org/abs/2102.08501.pdf)
+
 [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349.pdf)
 
 [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941.pdf)
