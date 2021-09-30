@@ -168,6 +168,8 @@
 
 ## Deep learning
 
+[Learning to Learn Single Domain Generalization](https://arxiv.org/abs/2003.13216.pdf)
+
 [DEUP: Direct Epistemic Uncertainty Prediction](https://arxiv.org/abs/2102.08501.pdf)
 
 [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349.pdf)
