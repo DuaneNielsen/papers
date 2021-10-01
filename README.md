@@ -168,6 +168,8 @@
 
 ## Deep learning
 
+[Geometric Deep Learning Grids, Groups, Graphs,Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf)
+
 [DATASET CONDENSATION WITH GRADIENT MATCHING](https://arxiv.org/abs/2006.05929.pdf)
 
 [Learning to Learn Single Domain Generalization](https://arxiv.org/abs/2003.13216.pdf)
