@@ -46,6 +46,8 @@
 
 ## Multi-Object Tracking
 
+[BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models](https://arxiv.org/abs/2108.00516v1.pdf)
+
 [Multi-Object Tracking with Hallucinated and Unlabeled Videos](https://arxiv.org/abs/2108.08836.pdf)
 
 ## Reinforcement Learning
