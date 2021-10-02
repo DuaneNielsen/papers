@@ -34,7 +34,7 @@
 
 [3D Semantic Scene Completion: a Survey](https://arxiv.org/abs/2103.07466.pdf)
 
-[Motion Segmentation of Truncated Signed Distance Function based Volumetric Surfaces](https://arxiv.org/abs/1912.00036.pdf)
+[SG-NN: Sparse Generative Neural Networks for Self-Supervised Scene Completion of RGB-D Scans](https://arxiv.org/abs/1912.00036.pdf)
 
 ## Robot localization
 
