@@ -36,6 +36,8 @@
 
 [SG-NN: Sparse Generative Neural Networks for Self-Supervised Scene Completion of RGB-D Scans](https://arxiv.org/abs/1912.00036.pdf)
 
+[Truncated Signed Distance Fields applied to robotics](https://oru.diva-portal.org/smash/get/diva2:1136113/FULLTEXT01.pdf)
+
 ## Robot localization
 
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
