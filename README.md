@@ -48,6 +48,8 @@
 
 [HIGH SPEED NONHOLONOMIC MOBILE ROBOT ONLINE TRAJECTORY OPTIMATIZATION](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/37301/XU-THESIS-2014.pdf)
 
+[RANSAC Matching: Simultaneous Registration and Segmentation](https://www.csie.ntu.edu.tw/~bobwang/Papers/yang_icra10.pdf)
+
 ## Multi-Object Tracking
 
 [BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models](https://arxiv.org/abs/2108.00516v1.pdf)
