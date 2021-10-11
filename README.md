@@ -50,6 +50,8 @@
 
 [RANSAC Matching: Simultaneous Registration and Segmentation](https://www.csie.ntu.edu.tw/~bobwang/Papers/yang_icra10.pdf)
 
+[Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography](http://www.ai.sri.com/pubs/files/836.pdf)
+
 ## Multi-Object Tracking
 
 [BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models](https://arxiv.org/abs/2108.00516v1.pdf)
