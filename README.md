@@ -176,6 +176,10 @@
 
 [Multi-Resolution POMDP Planning for Multi-Object Search in 3D](https://arxiv.org/abs/2005.02878.pdf)
 
+## NLP
+
+[Beyond English-Centric Multilingual Machine Translation](https://arxiv.org/pdf/2010.11125.pdf)
+
 ## Deep learning
 
 [A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning](https://arxiv.org/pdf/2109.02355.pdf)
