@@ -178,6 +178,8 @@
 
 ## Deep learning
 
+[A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning](https://arxiv.org/pdf/2109.02355.pdf)
+
 [Geometric Deep Learning Grids, Groups, Graphs,Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf)
 
 [DATASET CONDENSATION WITH GRADIENT MATCHING](https://arxiv.org/abs/2006.05929.pdf)
