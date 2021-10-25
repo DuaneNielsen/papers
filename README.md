@@ -38,6 +38,8 @@
 
 [Truncated Signed Distance Fields applied to robotics](https://oru.diva-portal.org/smash/get/diva2:1136113/FULLTEXT01.pdf)
 
+[DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/pdf/1901.05103.pdf)
+
 ## Robot localization
 
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
