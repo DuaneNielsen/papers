@@ -42,6 +42,8 @@
 
 [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994#)
 
+[A Volumetric Method for Building Complex Models from Range Images](https://graphics.stanford.edu/papers/volrange/volrange.pdf)
+
 ## Robot localization
 
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
