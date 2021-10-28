@@ -44,6 +44,8 @@
 
 [A Volumetric Method for Building Complex Models from Range Images](https://graphics.stanford.edu/papers/volrange/volrange.pdf)
 
+[KinectFusion: Real-Time Dense Surface Mapping and Tracking](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf)
+
 ## Robot localization
 
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
