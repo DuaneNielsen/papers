@@ -50,6 +50,8 @@
 
 ## Robot localization
 
+[Practical and Optimal LSH for Angular Distance](https://arxiv.org/abs/1509.02897.pdf)
+
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
 
 [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)
