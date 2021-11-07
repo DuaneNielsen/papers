@@ -30,6 +30,8 @@
 
 ## 3D scene completion
 
+[NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://zju3dv.github.io/neuralrecon/)
+
 [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/abs/2003.10432v3.pdf)
 
 [3D Semantic Scene Completion: a Survey](https://arxiv.org/abs/2103.07466.pdf)
