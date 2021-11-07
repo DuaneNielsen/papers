@@ -18,6 +18,10 @@
 
 []()
 
+## Lie Algebra
+
+[Lie Groups for 2D and 3D Transformations](http://ethaneade.com/lie.pdf)
+
 ## Stereo Matching
 
 [Stereo Matching Basics](https://johnwlambert.github.io/stereo/)
