@@ -46,6 +46,8 @@
 
 [KinectFusion: Real-Time Dense Surface Mapping and Tracking](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf)
 
+[Signed Distance Fields: A Natural Representation for Both Mapping and Planning](http://rss16-representations.mit.edu/papers/BeyondGeometryRSSW16_2_CameraReadySubmission_Oleynikova.pdf)
+
 ## Robot localization
 
 [DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
