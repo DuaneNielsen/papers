@@ -54,6 +54,8 @@
 
 [Signed Distance Fields: A Natural Representation for Both Mapping and Planning](http://rss16-representations.mit.edu/papers/BeyondGeometryRSSW16_2_CameraReadySubmission_Oleynikova.pdf)
 
+[TSDF Paper](https://www.researchgate.net/publication/268513443_Truncated_Signed_Distance_Function_Experiments_on_Voxel_Size)
+
 ## Robot localization
 
 [Practical and Optimal LSH for Angular Distance](https://arxiv.org/abs/1509.02897.pdf)
