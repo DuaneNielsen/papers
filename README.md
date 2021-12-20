@@ -84,6 +84,10 @@
 
 [Multi-Object Tracking with Hallucinated and Unlabeled Videos](https://arxiv.org/abs/2108.08836.pdf)
 
+## Robot arms
+
+[Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation Paper Explained](https://www.youtube.com/watch?v=qr3BjVNuCzw)
+
 ## Reinforcement Learning
 
 [Mastering Atari Games with Limited Data]()
