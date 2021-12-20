@@ -62,21 +62,6 @@
 
 [Controllable and Progressive Image Extrapolation](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Controllable_and_Progressive_Image_Extrapolation_WACV_2021_paper.pdf)
 
-## Robot localization
-
-[Practical and Optimal LSH for Angular Distance](https://arxiv.org/abs/1509.02897.pdf)
-
-[DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
-
-[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)
-
-[CeMNet: Self-supervised learning for accurate continuous ego-motion estimation](https://arxiv.org/abs/1806.10309.pdf)
-
-[HIGH SPEED NONHOLONOMIC MOBILE ROBOT ONLINE TRAJECTORY OPTIMATIZATION](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/37301/XU-THESIS-2014.pdf)
-
-[RANSAC Matching: Simultaneous Registration and Segmentation](https://www.csie.ntu.edu.tw/~bobwang/Papers/yang_icra10.pdf)
-
-[Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography](http://www.ai.sri.com/pubs/files/836.pdf)
 
 ## Multi-Object Tracking
 
@@ -84,9 +69,6 @@
 
 [Multi-Object Tracking with Hallucinated and Unlabeled Videos](https://arxiv.org/abs/2108.08836.pdf)
 
-## Robot arms
-
-[Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation Paper Explained](https://www.youtube.com/watch?v=qr3BjVNuCzw)
 
 ## Reinforcement Learning
 
@@ -182,15 +164,7 @@
 
 [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/rma-locomotion-final.pdf)
 
-[Solving Rubik's Cube with a Robot Hand](https://arxiv.org/abs/1910.07113)
-
-[Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
-
 [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2010.14406)
-
-[Form2Fit: Learning Shape Priors for Generalizable Assembly](https://form2fit.github.io/)
-
-[TossingBot: Learning to Throw Arbitrary Objects with Residual Physics](https://arxiv.org/abs/1903.11239)
 
 [A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537.pdf)
 
@@ -207,6 +181,34 @@
 [Multi-Object Search using Object-Oriented POMDPs](https://www.ccs.neu.edu/home/lsw/papers/icra2019-mop.pdf)
 
 [Multi-Resolution POMDP Planning for Multi-Object Search in 3D](https://arxiv.org/abs/2005.02878.pdf)
+
+### Robot localization
+
+[Practical and Optimal LSH for Angular Distance](https://arxiv.org/abs/1509.02897.pdf)
+
+[DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2108.10869v1.pdf)
+
+[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)
+
+[CeMNet: Self-supervised learning for accurate continuous ego-motion estimation](https://arxiv.org/abs/1806.10309.pdf)
+
+[HIGH SPEED NONHOLONOMIC MOBILE ROBOT ONLINE TRAJECTORY OPTIMATIZATION](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/37301/XU-THESIS-2014.pdf)
+
+[RANSAC Matching: Simultaneous Registration and Segmentation](https://www.csie.ntu.edu.tw/~bobwang/Papers/yang_icra10.pdf)
+
+[Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography](http://www.ai.sri.com/pubs/files/836.pdf)
+
+### Robot arms
+
+[Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation Paper Explained](https://www.youtube.com/watch?v=qr3BjVNuCzw)
+
+[Form2Fit: Learning Shape Priors for Generalizable Assembly](https://form2fit.github.io/)
+
+[TossingBot: Learning to Throw Arbitrary Objects with Residual Physics](https://arxiv.org/abs/1903.11239)
+
+[Solving Rubik's Cube with a Robot Hand](https://arxiv.org/abs/1910.07113)
+
+[Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
 
 ## NLP
 
