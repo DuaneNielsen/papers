@@ -56,6 +56,8 @@
 
 [TSDF Paper](https://www.researchgate.net/publication/268513443_Truncated_Signed_Distance_Function_Experiments_on_Voxel_Size)
 
+[Spatial Imagination With Semantic Cognition for Mobile Robots](https://arxiv.org/abs/2104.03638.pdf)
+
 ## Image extrapolation
 
 [Controllable and Progressive Image Extrapolation](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Controllable_and_Progressive_Image_Extrapolation_WACV_2021_paper.pdf)
