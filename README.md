@@ -264,6 +264,8 @@
 
 ## Unsupervised Deep learning
 
+[BT-Unet: A self-supervised learning framework for biomedical image segmentation using Barlow Twins with U-Net models](https://arxiv.org/abs/2112.03916)
+
 [MoFA: Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tewari_MoFA_Model-Based_Deep_ICCV_2017_paper.pdf)
 
 [Motion Representations for Articulated Animation](https://arxiv.org/pdf/2104.11280v1.pdf)
