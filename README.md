@@ -216,6 +216,8 @@
 
 ## Deep learning
 
+[ResNet Strikes Back](https://arxiv.org/pdf/2110.00476.pdf)
+
 [Autoregressive Diffusion Models](https://arxiv.org/abs/2110.02037.pdf)
 
 [A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning](https://arxiv.org/pdf/2109.02355.pdf)
