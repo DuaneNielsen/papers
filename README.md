@@ -114,6 +114,11 @@
 
 [Meta-Gradient Reinforcement Learning](https://arxiv.org/abs/1805.09801)
 
+### Continual learning
+
+[Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning](https://arxiv.org/pdf/2112.02706v1.pdf)
+
+
 ### Offline RL
 
 [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
