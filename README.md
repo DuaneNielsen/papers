@@ -216,6 +216,8 @@
 
 ## Deep learning
 
+[DeepNet: Scaling Transformers to 1,000 Layers](https://arxiv.org/pdf/2203.00555v1.pdf)
+
 [ResNet Strikes Back](https://arxiv.org/pdf/2110.00476.pdf)
 
 [Autoregressive Diffusion Models](https://arxiv.org/abs/2110.02037.pdf)
