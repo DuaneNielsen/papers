@@ -225,13 +225,15 @@
 
 ## Deep learning
 
+[Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482v1)
+
 [CFPNet-Medicine](https://github.com/AngeLouCN/CFPNet-Medicine)  <-- fast U-net
 
-[Patches Are All You Need?](https://arxiv.org/pdf/2201.09792v1.pdf)
+[Patches Are All You Need?](https://arxiv.org/abs/2201.09792v1.pdf)
 
-[DeepNet: Scaling Transformers to 1,000 Layers](https://arxiv.org/pdf/2203.00555v1.pdf)
+[DeepNet: Scaling Transformers to 1,000 Layers](https://arxiv.org/abs/2203.00555v1.pdf)
 
-[ResNet Strikes Back](https://arxiv.org/pdf/2110.00476.pdf)
+[ResNet Strikes Back](https://arxiv.org/abs/2110.00476.pdf)
 
 [Autoregressive Diffusion Models](https://arxiv.org/abs/2110.02037.pdf)
 
