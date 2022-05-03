@@ -223,6 +223,8 @@
 
 ## Deep learning
 
+[CFPNet-Medicine](https://github.com/AngeLouCN/CFPNet-Medicine)  <-- fast U-net
+
 [Patches Are All You Need?](https://arxiv.org/pdf/2201.09792v1.pdf)
 
 [DeepNet: Scaling Transformers to 1,000 Layers](https://arxiv.org/pdf/2203.00555v1.pdf)
