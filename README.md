@@ -26,6 +26,8 @@
 
 ## Stereo Matching
 
+[GraftNet: Towards Domain Generalized Stereo Matching with a Broad-Spectrum and Task-Oriented Feature](https://arxiv.org/pdf/2204.00179v1.pdf)
+
 [Stereo Matching Basics](https://johnwlambert.github.io/stereo/)
 
 [RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching](https://arxiv.org/abs/2109.07547v1.pdf)
