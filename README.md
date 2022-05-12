@@ -38,6 +38,8 @@
 
 ## 3D scene completion
 
+[Differentiable Signed Distance Function Rendering](http://rgl.s3.eu-central-1.amazonaws.com/media/papers/Vicini2022sdf_1.pdf)
+
 [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://zju3dv.github.io/neuralrecon/)
 
 [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/abs/2003.10432v3.pdf)
