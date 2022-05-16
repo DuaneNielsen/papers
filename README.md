@@ -76,7 +76,9 @@
 [Multi-Object Tracking with Hallucinated and Unlabeled Videos](https://arxiv.org/abs/2108.08836.pdf)
 
 
-## Reinforcement Learning
+## Reinforcement Learning / AI
+
+[A Generalist Agent](https://arxiv.org/pdf/2205.06175.pdf)
 
 [The 37 Implementation Details of Proximal Policy Optimization](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/)
 
