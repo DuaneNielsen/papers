@@ -26,6 +26,8 @@
 
 ## Stereo Matching
 
+[MobileStereoNet](https://github.com/cogsys-tuebingen/mobilestereonet)
+
 [GraftNet: Towards Domain Generalized Stereo Matching with a Broad-Spectrum and Task-Oriented Feature](https://arxiv.org/pdf/2204.00179v1.pdf)
 
 [Stereo Matching Basics](https://johnwlambert.github.io/stereo/)
