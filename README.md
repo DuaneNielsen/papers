@@ -36,6 +36,8 @@
 
 [HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching](https://arxiv.org/abs/2007.12140)
 
+[Deep Learning Stereo Vision at the edge](https://arxiv.org/abs/2001.04552v1)
+
 ## 3D scene completion
 
 [Differentiable Signed Distance Function Rendering](http://rgl.s3.eu-central-1.amazonaws.com/media/papers/Vicini2022sdf_1.pdf)
