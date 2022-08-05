@@ -137,6 +137,8 @@
 
 [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
 
+[Behavior Transformers: Cloning k modes with one stone](https://arxiv.org/abs/2206.11251)
+
 [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860)
 
 [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779.pdf)
