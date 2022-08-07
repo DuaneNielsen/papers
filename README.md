@@ -26,6 +26,8 @@
 
 ## Stereo Matching
 
+[USegScene: Unsupervised Learning of Depth, Optical Flow and Ego-Motion with Semantic Guidance and Coupled Networks](https://arxiv.org/abs/2207.07469)
+
 [MobileStereoNet](https://github.com/cogsys-tuebingen/mobilestereonet)
 
 [GraftNet: Towards Domain Generalized Stereo Matching with a Broad-Spectrum and Task-Oriented Feature](https://arxiv.org/pdf/2204.00179v1.pdf)
