@@ -137,7 +137,9 @@
 
 ### Offline RL
 
-[General Policy Evaluation and Improvement by Learning to Identify Few But Crucial States](https://arxiv.org/abs/2207.01566
+[Know Your Boundaries: The Necessity of Explicit Behavioral Cloning in Offline RL](https://arxiv.org/abs/2206.00695)
+
+[General Policy Evaluation and Improvement by Learning to Identify Few But Crucial States](https://arxiv.org/abs/2207.01566)
 
 [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
 
