@@ -139,6 +139,8 @@
 
 [General Policy Evaluation and Improvement by Learning to Identify Few But Crucial States](https://arxiv.org/abs/2207.01566
 
+[Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
+
 [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
 
 [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
