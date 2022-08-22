@@ -137,6 +137,10 @@
 
 ### Offline RL
 
+[Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
+
+[Why So Pessimistic? Estimating Uncertainties for Offline RL through Ensembles, and Why Their Independence Matters](https://arxiv.org/abs/2205.13703)
+
 [Know Your Boundaries: The Necessity of Explicit Behavioral Cloning in Offline RL](https://arxiv.org/abs/2206.00695)
 
 [General Policy Evaluation and Improvement by Learning to Identify Few But Crucial States](https://arxiv.org/abs/2207.01566)
@@ -144,8 +148,6 @@
 [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
 
 [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
-
-[Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
 
 [Behavior Transformers: Cloning k modes with one stone](https://arxiv.org/abs/2206.11251)
 
