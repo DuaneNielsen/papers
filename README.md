@@ -145,6 +145,8 @@
 
 [A Pragmatic Look at Deep Imitation Learning](https://arxiv.org/abs/2108.01867v1.pdf)
 
+[Implicit Behavioral Cloning](https://implicitbc.github.io/)
+
 [A DATASET PERSPECTIVE ON OFFLINE REINFORCEMENT LEARNING](https://arxiv.org/abs/2111.04714.pdf)
 
 [General Policy Evaluation and Improvement by Learning to Identify Few But Crucial States](https://arxiv.org/abs/2207.01566)
