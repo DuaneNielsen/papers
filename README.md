@@ -86,6 +86,8 @@
 
 ## Reinforcement Learning / AI
 
+[DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames](https://arxiv.org/abs/1911.00357)
+
 [Transformers are Sample Efficient World Models](https://arxiv.org/abs/2209.00588v1.pdf)
 
 [A Generalist Agent](https://arxiv.org/pdf/2205.06175.pdf)
