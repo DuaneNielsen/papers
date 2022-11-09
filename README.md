@@ -259,6 +259,8 @@
 
 ## Deep learning
 
+[What Makes Convolutional Models Great on Long Sequence Modeling?](https://arxiv.org/abs/2210.09298v1.pdf)
+
 [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482v1)
 
 [CFPNet-Medicine](https://github.com/AngeLouCN/CFPNet-Medicine)  <-- fast U-net
