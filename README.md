@@ -77,12 +77,13 @@
 [Controllable and Progressive Image Extrapolation](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Controllable_and_Progressive_Image_Extrapolation_WACV_2021_paper.pdf)
 
 
-## Multi-Object Tracking
+## Tracking
 
 [BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models](https://arxiv.org/abs/2108.00516v1.pdf)
 
 [Multi-Object Tracking with Hallucinated and Unlabeled Videos](https://arxiv.org/abs/2108.08836.pdf)
 
+[TAP-Vid: A Benchmark for Tracking Any Point in a Video](https://arxiv.org/abs/2211.03726)
 
 ## Reinforcement Learning / AI
 
