@@ -189,6 +189,8 @@
 
 [Generalized State-Dependent Exploration for Deep Reinforcement Learning in Robotics](https://arxiv.org/pdf/2005.05719.pdf)
 
+[Is Out-of-Distribution Detection Learnable?](https://arxiv.org/abs/2210.14707.pdf)
+
 ## Differentiable physics
 
 [BRAX](https://github.com/google/brax)
