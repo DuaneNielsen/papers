@@ -147,6 +147,8 @@
 
 [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
 
+[Is Conditional Generative Modeling all you need for Decision-Making?](https://anuragajay.github.io/decision-diffuser/)
+
 [Why So Pessimistic? Estimating Uncertainties for Offline RL through Ensembles, and Why Their Independence Matters](https://arxiv.org/abs/2205.13703)
 
 [Know Your Boundaries: The Necessity of Explicit Behavioral Cloning in Offline RL](https://arxiv.org/abs/2206.00695)
