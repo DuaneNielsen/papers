@@ -267,6 +267,8 @@
 
 ## Deep learning
 
+[Gradient Estimation with Discrete Stein Operators](https://deepai.org/publication/gradient-estimation-with-discrete-stein-operators)
+
 [What Makes Convolutional Models Great on Long Sequence Modeling?](https://arxiv.org/abs/2210.09298v1.pdf)
 
 [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482v1)
