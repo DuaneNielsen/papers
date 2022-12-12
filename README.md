@@ -139,6 +139,9 @@
 
 [Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning](https://arxiv.org/pdf/2112.02706v1.pdf)
 
+### NLP
+
+[Recursively Summarizing Books with Human Feedback](https://arxiv.org/abs/2109.10862)
 
 ### Offline RL
 
