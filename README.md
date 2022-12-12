@@ -211,6 +211,8 @@
 
 ## Robotics
 
+[Enhanced method for reinforcement learning based dynamic obstacle avoidance by assessment of collision risk](https://arxiv.org/abs/2212.04123)
+
 [Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion](https://paperswithcode.com/paper/reinforcement-learning-with-evolutionary)
 
 [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/rma-locomotion-final.pdf)
