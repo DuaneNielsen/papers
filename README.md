@@ -143,6 +143,8 @@
 
 [Recursively Summarizing Books with Human Feedback](https://arxiv.org/abs/2109.10862)
 
+[Code as Policies: Language Model Programs for Embodied Control](https://arxiv.org/pdf/2209.07753.pdf)
+
 ### Offline RL
 
 [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
