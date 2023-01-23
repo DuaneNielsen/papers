@@ -87,6 +87,8 @@
 
 ## Reinforcement Learning / AI
 
+[The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for RL](https://arxiv.org/abs/2109.02869)
+
 [DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames](https://arxiv.org/abs/1911.00357)
 
 [Transformers are Sample Efficient World Models](https://arxiv.org/abs/2209.00588v1.pdf)
