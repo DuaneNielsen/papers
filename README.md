@@ -76,7 +76,7 @@
 
 [Controllable and Progressive Image Extrapolation](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Controllable_and_Progressive_Image_Extrapolation_WACV_2021_paper.pdf)
 
-## Spatial description, Merelogy
+## Spatial description, Merelogy, Activity recognition
 
 [Spatial Intelligence](https://www.youtube.com/watch?v=ytiZp7_UVIA)
 
