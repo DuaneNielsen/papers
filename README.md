@@ -141,6 +141,8 @@
 
 [Meta-Gradient Reinforcement Learning](https://arxiv.org/abs/1805.09801)
 
+[REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
+
 ### Continual learning
 
 [Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning](https://arxiv.org/pdf/2112.02706v1.pdf)
