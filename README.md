@@ -284,6 +284,8 @@ BY BREAKING THE REPLAY RATIO BARRIER](https://openreview.net/pdf?id=OpC-9aBBVJe)
 
 ## Deep learning
 
+[Encoding Recurrence into Transformers](https://openreview.net/forum?id=7YfHla7IxBJ)
+
 [Gradient Estimation with Discrete Stein Operators](https://deepai.org/publication/gradient-estimation-with-discrete-stein-operators)
 
 [What Makes Convolutional Models Great on Long Sequence Modeling?](https://arxiv.org/abs/2210.09298v1.pdf)
