@@ -157,6 +157,9 @@
 
 [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
 
+[SAMPLE-EFFICIENT REINFORCEMENT LEARNING
+BY BREAKING THE REPLAY RATIO BARRIER](https://openreview.net/pdf?id=OpC-9aBBVJe)
+
 [Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2210.07432)
 
 [Is Conditional Generative Modeling all you need for Decision-Making?](https://anuragajay.github.io/decision-diffuser/)
