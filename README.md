@@ -155,6 +155,8 @@
 
 ### Offline RL
 
+[IS CONDITIONAL GENERATIVE MODELING ALL YOU NEED FOR DECISION-MAKING?](https://arxiv.org/pdf/2211.15657.pdf)
+
 [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
 
 [SAMPLE-EFFICIENT REINFORCEMENT LEARNING
