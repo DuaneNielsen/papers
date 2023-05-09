@@ -286,6 +286,8 @@ BY BREAKING THE REPLAY RATIO BARRIER](https://openreview.net/pdf?id=OpC-9aBBVJe)
 
 ## Deep learning
 
+[Parallel Context Windows Improve In-Context Learning of Large Language Models](https://arxiv.org/pdf/2212.10947.pdf)
+
 [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
 
 [Encoding Recurrence into Transformers](https://openreview.net/forum?id=7YfHla7IxBJ)
