@@ -362,6 +362,8 @@ BY BREAKING THE REPLAY RATIO BARRIER](https://openreview.net/pdf?id=OpC-9aBBVJe)
 
 ## Unsupervised Deep learning
 
+[A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210.pdf)
+
 [Adversarial Masking for Self-Supervised Learning](https://arxiv.org/pdf/2201.13100.pdf)
 
 [BT-Unet: A self-supervised learning framework for biomedical image segmentation using Barlow Twins with U-Net models](https://arxiv.org/abs/2112.03916)
