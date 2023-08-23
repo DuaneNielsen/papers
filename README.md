@@ -228,6 +228,8 @@ BY BREAKING THE REPLAY RATIO BARRIER](https://openreview.net/pdf?id=OpC-9aBBVJe)
 
 ## Robotics
 
+[An Active Learning Based Robot Kinematic Calibration Framework Using Gaussian Processes](https://arxiv.org/abs/2303.03658.pdf)
+
 [Enhanced method for reinforcement learning based dynamic obstacle avoidance by assessment of collision risk](https://arxiv.org/abs/2212.04123)
 
 [Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion](https://paperswithcode.com/paper/reinforcement-learning-with-evolutionary)
