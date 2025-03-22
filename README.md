@@ -91,6 +91,8 @@
 
 ## Reinforcement Learning / AI
 
+[AlphaZe∗∗: AlphaZero-like baselines for imperfect information games are surprisingly strong](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1014561/full)
+
 [Perfect Information Monte Carlo with Postponing Reasoning](https://arxiv.org/pdf/2408.02380)
 
 [The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for RL](https://arxiv.org/abs/2109.02869)
