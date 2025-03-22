@@ -91,6 +91,8 @@
 
 ## Reinforcement Learning / AI
 
+[Perfect Information Monte Carlo with Postponing Reasoning](https://arxiv.org/pdf/2408.02380)
+
 [The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for RL](https://arxiv.org/abs/2109.02869)
 
 [DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames](https://arxiv.org/abs/1911.00357)
